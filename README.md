@@ -9,3 +9,4 @@ Skills: JS / HTML / CSS / REACT / NODE.JS
 - 🔭 I’m currently working on Timetable Generator App for Queensford Colege 
 - 🌱 I’m currently learning React.js 
 
+[![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynero)](https://github.com/jaynero/github-readme-stats)
