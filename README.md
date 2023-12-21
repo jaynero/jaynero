@@ -6,7 +6,7 @@
 Recent graduate and skilled front-end developer passionate about creating seamless user experiences. Eager to contribute innovative solutions.
 
 💻 Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs, react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Timetable Generator App for Queensford Colege 
 - 🌱 I’m currently learning React.js
