@@ -50,38 +50,6 @@ My interest is in building the server-side layer — clean API contracts, solid 
 
 ---
 
-<!-- ## 🚀 Projects
-
-### 📘 Course Management REST API
-> Role-based REST API for managing university course enrolments and tutorial allocations.
-
-- Designed relational schema with secure, normalised data modelling
-- Implemented role-based access control to restrict endpoint access by user type
-- Applied parameterised queries to eliminate SQL injection vulnerabilities
-- **Stack:** Python · SQL · MySQL · JavaScript
-
----
-
-### 📱 Cross-Platform Mobile Apps *(High Distinction)*
-> Native iOS and cross-platform Android applications developed as part of postgraduate coursework.
-
-- Integrated remote API consumption layers with local data persistence
-- Delivered both native (Swift/Kotlin) and cross-platform (Flutter) builds
-- Achieved HD+ grade for both iOS and cross-platform submissions
-- **Stack:** Swift · Kotlin · Dart · Flutter
-
----
-
-### 🌐 Full-Stack Web Application *(Team Internship Project)*
-> Web application delivered across the full SDLC during my ICT internship at Queensford College.
-
-- Built and integrated REST-style endpoints between React front-end and Node.js back-end
-- Participated in QA: manual test cases, defect logging, regression testing
-- **Stack:** React · Node.js · MySQL
-
----
--->
-
 ## 📚 Currently Learning
 
 ```
@@ -97,29 +65,6 @@ FastAPI advanced patterns
   ├── Pydantic v2 data validation
   └── JWT authentication
 ```
-<!--
----
-
- ## 🎓 Education & Credentials
-
-| Qualification | Institution | Year |
-|---|---|---|
-| Master of Information Technology & Systems | University of Tasmania | 2022 |
-| Professional Year Program — IT | Australian College of Applied Professions | 2024 |
-| ACS Graduate Member | Australian Computer Society | 2022 – Present |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaynero&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynero&layout=compact&hide_border=true&theme=default)
-
-</div>
--->
 
 ---
 
